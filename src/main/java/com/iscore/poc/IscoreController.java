@@ -22,6 +22,7 @@ public class IscoreController {
         String content = null;
         File file = null;
         try {
+
             content = "{\n" +
                     "   \"ErrorResponse\": null,\n" +
                     "   \"Response\": {\n" +
